@@ -44,7 +44,7 @@
 	
 ### Pré-requisitos para rodar a apliacação
 
-Antes de começar, você vai precisar ter instalado em sua máquina o GitBash para clonar o repositório.
+Antes de começar, seria interessante (mas não necessário) você ter instalado em sua máquina o GitBash para clonar o repositório. Do contrário, poderá utilizar o terminal do próprio SO.
 
 ### 🎲 Rodando o Front-End
 
