@@ -16,10 +16,17 @@
 <h4 align="center"> 
 	✅  DarkMode SideBar 🚀 Concluído  ✅
 </h4>
+
+
+
+https://user-images.githubusercontent.com/54036338/158279547-c7fb9565-5c87-4232-937d-da9e9825415c.mp4
+
+
+
 <hr>
 <div id="objetivo">
 	<h1>Objetivo</h1>
-  <h4>O objetivo deste projeto foi de reforçar os conceitos base do HTML, CSS e Javascript </h4>
+  <h4>O objetivo deste projeto foi reforçar alguns conceitos básicos e outros mais avançados de HTML, CSS e Javascript </h4>
 
 </div>
 
