@@ -1,7 +1,7 @@
 <h1  align="center"> DarkMode NavBar </h1>
 
 
-<p align="center">🚀 Projeto de estudo com light/dark mode</p>
+<p align="center">🚀 Projeto de estudo com Light/DarkMode</p>
 
 <hr>
 
@@ -44,12 +44,11 @@
 	
 ### Pré-requisitos para rodar a apliacação
 
-Antes de começar, seria interessante (mas não necessário) você ter instalado em sua máquina o GitBash para clonar o repositório. Do contrário, poderá utilizar o terminal do próprio SO.
+Antes de começar, seria interessante (mas não obrigatório) você ter instalado em sua máquina o GitBash para clonar o repositório. Do contrário, poderá utilizar o terminal do próprio SO.
 
 ### 🎲 Rodando o Front-End
 
 ``` bash
-  
 # para clonar o repositório, basta inserir o comando abaixo no seu terminal
   
 git clone https://github.com/SodreSam/DarkMode-NavBar.git
@@ -70,5 +69,5 @@ git clone https://github.com/SodreSam/DarkMode-NavBar.git
 <hr>
 
 
-<p align="center">Apesar de já possuir uma boa base de HTML, CSS e Javascript em si, acho importante reforçar os conceitos básicos da programação. Com isso, achei interessante realizar esse estudo com algo que eu ainda não havia feito, uma aplicação com DarkMode. Foi uma experiência bem interessante, e certamente vou adicionar novas funcionalidades no projeto. </p>
+<p align="center">Apesar de já possuir uma boa base de HTML, CSS e Javascript em si, acho importante reforçar os conceitos básicos da programação. Com isso, achei interessante realizar esse estudo com algo que eu ainda não havia feito, uma aplicação com DarkMode. Foi uma experiência bem interessante e certamente irei adicionar novas funcionalidades ao projeto. </p>
 	
