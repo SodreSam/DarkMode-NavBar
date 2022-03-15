@@ -48,11 +48,8 @@ https://user-images.githubusercontent.com/54036338/158279547-c7fb9565-5c87-4232-
 
 
 <div id="requisitos">
+
 	
-### Pré-requisitos para rodar a apliacação
-
-Antes de começar, seria interessante (mas não obrigatório) você ter instalado em sua máquina o GitBash para clonar o repositório. Do contrário, poderá utilizar o terminal do próprio SO.
-
 ### 🎲 Rodando o Front-End
 
 ``` bash
